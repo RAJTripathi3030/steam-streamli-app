@@ -30,6 +30,7 @@ To get started with the Steam Game Analyzer app, follow these steps:
 
 4. **Explore**: Open your web browser and visit the URL displayed in the terminal to access the Steam Game Analyzer app. Start exploring different Steam games and analyzing their data!
 
+5. **View The App Here**: https://steam-streamli-app.streamlit.app/
 ## Screenshots
 
 ![image](https://github.com/RAJTripathi3030/steam-streamli-app/assets/113851737/de6250d2-8e55-4615-abf5-8369bd22a6d4)
