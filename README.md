@@ -15,7 +15,7 @@ To get started with the Steam Game Analyzer app, follow these steps:
 
 1. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/steam-game-analyzer.git
+   git clone https://github.com/RAJTripathi3030/steam-game-analyzer.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
